@@ -22,7 +22,6 @@ namespace LogicalPrograms
                 b = c;
             }
             Console.Read();
-
         }
     }
 }

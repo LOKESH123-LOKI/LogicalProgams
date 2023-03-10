@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,22 +14,23 @@ namespace LogicalPrograms
             const string START = "Start", STOP = "Stop";
             Console.WriteLine("Enter 'Start to run the stop watch");
             string start= Console.ReadLine();
-            TimeSpan timespan = TimeSpan.Zero;
+            DateTime timespan = DateTime.Now;
             if (start.Equals(START))
             {
-                int hour1=timespan.Hours;
-                int minute1=timespan.Minutes;
-                int second1=timespan.Seconds;
-                int millisecond1=timespan.Milliseconds;
+                int hour1=timespan.Hour;
+                int minute1=timespan.Minute;
+                int second1=timespan.Second;
+                int millisecond1=timespan.Millisecond;
 
                 Console.WriteLine("Enter 'Stop' to the end the stop watch");
                 string stop = Console.ReadLine();
                 if (stop.Equals(STOP))
                 {
-                    int hour2 = timespan.Hours;
-                    int minute2 = timespan.Minutes;
-                    int second2 = timespan.Seconds;
-                    int microsecond2 = timespan.Milliseconds;
+                    DateTime timespan1 = DateTime.Now;
+                    int hour2 = timespan1.Hour;
+                    int minute2 = timespan1.Minute;
+                    int second2 = timespan1.Second;
+                    int microsecond2 = timespan1.Millisecond;
                     Console.WriteLine("Stop Watch Time"+(hour2-hour1)+":"+
                         (minute2-minute1)+":"+(second2-second1)+":"+(millisecond2 - millisecond1));
                 }

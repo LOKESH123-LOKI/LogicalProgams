@@ -20,7 +20,7 @@ namespace LogicalPrograms
                 int coupan=random.Next(0,num);
                 for(int  j = 1; j <= 1; j++)
                 {
-                    if (arr[i]!=coupan);
+                    if (arr[i]!=coupan)
                     arr[i]=coupan;
                 }
             }

@@ -1,0 +1,15 @@
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.AssemblyReference.cache
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfoInputs.cache
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfo.cs
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.CoreCompileInputs.cache
+D:\BL excercise\LogicalProgams\LogicalProgram\bin\Debug\net6.0\LogicalProgram.exe
+D:\BL excercise\LogicalProgams\LogicalProgram\bin\Debug\net6.0\LogicalProgram.deps.json
+D:\BL excercise\LogicalProgams\LogicalProgram\bin\Debug\net6.0\LogicalProgram.runtimeconfig.json
+D:\BL excercise\LogicalProgams\LogicalProgram\bin\Debug\net6.0\LogicalProgram.dll
+D:\BL excercise\LogicalProgams\LogicalProgram\bin\Debug\net6.0\LogicalProgram.pdb
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.dll
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\refint\LogicalProgram.dll
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.pdb
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\LogicalProgram.genruntimeconfig.cache
+D:\BL excercise\LogicalProgams\LogicalProgram\obj\Debug\net6.0\ref\LogicalProgram.dll
